@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|c:\\users\\husniye\\desktop\\hastatakipsistem\\hastatakipsistem\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BDE7D8-02E6-4E5A-B092-44EF1519BCFD}|HastaTakipSistem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmIstatistik.cs",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmIstatistik.cs",
+              "RelativeDocumentMoniker": "frmIstatistik.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmIstatistik.cs",
+              "RelativeToolTip": "frmIstatistik.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:39:13.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmIstatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmIstatistik.cs",
+              "RelativeDocumentMoniker": "frmIstatistik.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmIstatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmIstatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:21:43.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAnasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmAnasayfa.cs",
+              "RelativeDocumentMoniker": "frmAnasayfa.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmAnasayfa.cs",
+              "RelativeToolTip": "frmAnasayfa.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAEwOgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T22:15:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T21:40:05.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T21:36:48.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAnasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmAnasayfa.cs",
+              "RelativeDocumentMoniker": "frmAnasayfa.cs",
+              "ToolTip": "C:\\Users\\husniye\\Desktop\\HastaTakipSistem\\HastaTakipSistem\\frmAnasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmAnasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T21:33:57.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

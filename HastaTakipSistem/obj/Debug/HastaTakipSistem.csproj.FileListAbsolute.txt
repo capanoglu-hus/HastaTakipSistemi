@@ -1,0 +1,13 @@
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.csproj.AssemblyReference.cache
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.Form1.resources
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.frmkayıt.resources
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.Properties.Resources.resources
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.csproj.GenerateResource.cache
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.csproj.CoreCompileInputs.cache
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\bin\Debug\HastaTakipSistem.exe.config
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\bin\Debug\HastaTakipSistem.exe
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\bin\Debug\HastaTakipSistem.pdb
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.exe
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.pdb
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.frmAnasayfa.resources
+C:\Users\husniye\Desktop\HastaTakipSistem\HastaTakipSistem\obj\Debug\HastaTakipSistem.frmIstatistik.resources
