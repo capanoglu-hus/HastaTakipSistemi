@@ -25,6 +25,15 @@ namespace HastaTakipSistem
 
         private void btnKayıt_Click(object sender, EventArgs e)
         {
+            /*
+             create procedure [dbo].[kayitOl]
+                @kulAdi varchar(50),
+                @sifre varchar(50)
+                as 
+                begin 
+                insert into tbl_Login(kulAdi,sifre) values(@kulAdi,@sifre)
+                end 
+             */
             if (txtKulAdi.Text != "" && txtSifre.Text != "")
             {
                 SqlCommand kayit = new SqlCommand("kayitOl", bgl.baglan());

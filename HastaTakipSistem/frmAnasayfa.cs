@@ -32,6 +32,13 @@ namespace HastaTakipSistem
 
         private void Listele()
         {
+            /*
+                create procedure [dbo].[listele]
+                as
+                begin
+                select * from tbl_HastaBilgi order by hExMi asc 
+                end
+             */
             SqlCommand liste = new SqlCommand("listele", bgl.baglan());
             SqlDataAdapter da = new SqlDataAdapter(liste);
             DataTable dt = new DataTable();
@@ -41,6 +48,13 @@ namespace HastaTakipSistem
         }
         private void durumDoldur()
         {
+            /*
+             create procedure [dbo].[durumDoldur]
+                as
+                begin
+                select * from tbl_Durum
+                end 
+             */
             SqlCommand durum = new SqlCommand("durumDoldur", bgl.baglan());
             SqlDataAdapter da = new SqlDataAdapter(durum);
             DataTable dt = new DataTable();
@@ -52,6 +66,13 @@ namespace HastaTakipSistem
 
         private void bolumDoldur()
         {
+            /*
+             create procedure [dbo].[bolumDoldur]
+                as
+                begin
+                select * from tbl_Bolum
+                end
+             */
             SqlCommand durum = new SqlCommand("bolumDoldur", bgl.baglan());
             SqlDataAdapter da = new SqlDataAdapter(durum);
             DataTable dt = new DataTable();
@@ -124,6 +145,25 @@ namespace HastaTakipSistem
 
         private void kaydet()
         {
+            /*
+             create procedure [dbo].[kaydet]
+            @ad varchar(50) ,
+            @soyad varchar(50),
+            @tc char(11),
+            @tel char(11),
+            @yas smallint,
+            @cins varchar(50),
+            @sikayet varchar(200),
+            @tarih date,
+            @durum int,
+            @bolum int,
+            @ex bit
+            as
+            begin
+            insert into tbl_HastaBilgi(hAd,hSoyad,hTC,hTel,hYas,hCinsiyet,hSikayet,kTarih,hDurum,hBolum,hExMi)
+            values (@ad,@soyad,@tc,@tel,@yas,@cins,@sikayet,@tarih,@durum,@bolum,@ex)
+            end 
+             */
             SqlCommand kaydet = new SqlCommand("kaydet", bgl.baglan());
             kaydet.CommandType = CommandType.StoredProcedure;
             kaydet.Parameters.AddWithValue("ad", txtAD.Text.ToString());
@@ -154,6 +194,14 @@ namespace HastaTakipSistem
         }
         private void Sil()
         {
+            /*
+             create procedure [dbo].[sil]
+                @id int
+                as
+                begin 
+                delete from tbl_HastaBilgi where ID = @id
+                end
+             */
             DialogResult dr = MessageBox.Show($"{txtID.Text} numaralı kayıt silinecek onaylıyor musunuz ? ", "Onay", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if(dr == DialogResult.Yes)
             {
@@ -178,7 +226,27 @@ namespace HastaTakipSistem
 
         private void guncelle()
         {
-
+            /*
+             create procedure [dbo].[guncelle]
+            @id int,
+            @ad varchar(50) ,
+            @soyad varchar(50),
+            @tc char(11),
+            @tel char(11),
+            @yas smallint,
+            @cins varchar(50),
+            @sikayet varchar(200),
+            @tarih date,
+            @durum int,
+            @bolum int,
+            @ex bit
+            as
+            begin
+            update tbl_HastaBilgi SET hAd = @ad , hSoyad = @soyad , hTC=@tc, hTel=@tel,
+            hYas=@yas,hCinsiyet=@cins , hSikayet=@sikayet,
+            kTarih=@tarih, hDurum=@durum, hBolum=@bolum, hExMi=@ex where ID = @id
+            end 
+             */
             SqlCommand guncelle = new SqlCommand("guncelle", bgl.baglan());
             guncelle.CommandType = CommandType.StoredProcedure;
             guncelle.Parameters.AddWithValue("id", int.Parse(txtID.Text));

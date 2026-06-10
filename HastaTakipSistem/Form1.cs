@@ -32,7 +32,16 @@ namespace HastaTakipSistem
 
         private void btnGiris_Click(object sender, EventArgs e)
         {
-            if(txtKulAdi.Text != "" && txtSifre.Text != "")
+            /*
+             create procedure [dbo].[girisYap]
+                @kulAdi varchar(50),
+                @sifre varchar(50)
+                as
+                begin
+                select * from tbl_Login where kulAdi=@kulAdi and sifre=@sifre
+                end
+             */
+            if (txtKulAdi.Text != "" && txtSifre.Text != "")
             {
                 SqlCommand giris = new SqlCommand("girisYap", bgl.baglan());
                 giris.CommandType = CommandType.StoredProcedure;
